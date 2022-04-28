@@ -33,6 +33,6 @@ if (resto%10 == 0){
 } 
 
 addEventListener("click", function(){
-    location.reload()
+    location.reload() 
 }) 
 
